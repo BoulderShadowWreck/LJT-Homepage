@@ -198,8 +198,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-# Collections
-the template collections below; only publications are used
+# Collections - only the publications collection is used
 collections:
   teaching:
     output: false
